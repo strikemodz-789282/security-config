@@ -1,4 +1,11 @@
 {
-  "STRIKE-VIP-001": "20261231",
-  "TRIAL-2HARI": "20261125"
+  "version": "1.0.4",
+  "keys": {
+    "5e1a88f3": {
+      "active": true,
+      "expired": "2026-11-27",
+      "hwid_lock": "",
+      "label": "VIP 3 Hari"
+    }
+  }
 }
