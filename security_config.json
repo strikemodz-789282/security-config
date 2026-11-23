@@ -1,11 +1,17 @@
 {
   "version": "1.0.4",
   "keys": {
-    "81d052ae": {
+    "SIRO123": {
       "active": true,
       "expired": "2026-11-27",
       "hwid_lock": "",
       "label": "VIP 3 Hari"
+    },
+    "VIPBULANAN": {
+      "active": true,
+      "expired": "2026-12-31",
+      "hwid_lock": "",
+      "label": "VIP Bulanan"
     }
   }
 }
