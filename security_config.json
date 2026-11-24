@@ -1,17 +1,4 @@
 {
-  "version": "1.0.4",
-  "keys": {
-    "STRIKZ": {
-      "active": true,
-      "expired": "2026-11-27",
-      "hwid_lock": "",
-      "label": "VIP 3 Hari"
-    },
-    "VIPBULANAN": {
-      "active": true,
-      "expired": "2026-12-31",
-      "hwid_lock": "",
-      "label": "VIP Bulanan"
-    }
-  }
+  "key": "STRIKE2026",
+  "hari": 1
 }
