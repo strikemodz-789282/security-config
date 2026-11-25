@@ -1,4 +1,16 @@
-"STRIKE-VIP-003": {
-  "expired": "2026-12-31",
-  "nama": "Budi"
+{
+  "keys": {
+    "STRIKE-VIP-001": {
+      "expired": "2026-11-26",
+      "nama": "StrikeModz"
+    },
+    "STRIKE-VIP-002": {
+      "expired": "2026-11-26",
+      "nama": "StrikeModz"
+    },
+    "STRIKE-MODZ": {
+      "expired": "2026-11-26",
+      "nama": "StrikeModz"
+    }
+  }
 }
