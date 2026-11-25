@@ -1,16 +1,4 @@
-{
-  "keys": {
-    "STRIKE-VIP-001": {
-      "expired": "2026-11-26",
-      "nama": "StrikeModz"
-    },
-    "STRIKE-VIP-002": {
-      "expired": "2026-11-26",
-      "nama": "StrikeModz"
-    },
-    "STRIKE-TRIA": {
-      "expired": "2026-11-26",
-      "nama": "StrikeModz"
-    }
-  }
+"STRIKE-VIP-003": {
+  "expired": "2026-12-31",
+  "nama": "StrikeModz VIP 3"
 }
