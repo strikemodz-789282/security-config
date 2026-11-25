@@ -1,0 +1,75 @@
+{
+  "version": "v1.1",
+  "updated_at": "2026-11-25",
+  "patterns": {
+    "x2": {
+      "name": "Drone X2",
+      "icon": "🛸",
+      "description": "Drone view standar, ringan & aman",
+      "ranges": "ANON|C_ALLOC|C_BSS|C_HEAP",
+      "primary": {
+        "search": "1089806008;-1053839852;1089722122",
+        "type": "DWORD",
+        "edits": [
+          { "from": 1089806008, "to": 1094506008 },
+          { "from": -1053839852, "to": -1048839852 },
+          { "from": 1089722122, "to": 1094522122 }
+        ]
+      },
+      "secondary": {
+        "search": "-1057677640;-1057761526;1110143140",
+        "type": "DWORD",
+        "edits": [
+          { "from": -1057677640, "to": -1053577640 },
+          { "from": -1057761526, "to": -1054071526 }
+        ]
+      }
+    },
+    "x4": {
+      "name": "Drone X4",
+      "icon": "🚁",
+      "description": "Drone view tinggi, jangkauan lebih luas",
+      "ranges": "ANON|C_ALLOC|C_BSS|C_HEAP",
+      "primary": {
+        "search": "1094506008;-1048839852;1094522122",
+        "type": "DWORD",
+        "edits": [
+          { "from": 1094506008, "to": 1097649357 },
+          { "from": -1048839852, "to": -1045902131 },
+          { "from": 1094522122, "to": 1097607414 }
+        ]
+      },
+      "secondary": {
+        "search": "-1053577640;-1054071526",
+        "type": "DWORD",
+        "edits": [
+          { "from": -1053577640, "to": -1050000000 },
+          { "from": -1054071526, "to": -1050500000 }
+        ]
+      }
+    },
+    "x8": {
+      "name": "Drone X8",
+      "icon": "✈️",
+      "description": "Drone view extreme, pandangan seluruh map",
+      "ranges": "ANON|C_ALLOC|C_BSS|C_HEAP|JAVA_HEAP",
+      "primary": {
+        "search": "1097649357;-1045902131;1097607414",
+        "type": "DWORD",
+        "edits": [
+          { "from": 1097649357, "to": 1101004800 },
+          { "from": -1045902131, "to": -1043000000 },
+          { "from": 1097607414, "to": 1101004800 }
+        ]
+      },
+      "secondary": {
+        "search": "-1050000000;-1050500000",
+        "type": "DWORD",
+        "edits": [
+          { "from": -1050000000, "to": -1047000000 },
+          { "from": -1050500000, "to": -1047500000 }
+        ]
+      }
+    }
+  }
+}
